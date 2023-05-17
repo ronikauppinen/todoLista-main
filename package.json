@@ -39,5 +39,17 @@
     "@testing-library/react": "^13.0.0",
     "jest-dom": "^4.0.0",
     "react-test-renderer": "^18.0.0"
-  }
+  },
+  "description": "Simppeli todo -lista appi, joka on rakennettu reactilla.  Tämä sovellus on tehty pitkälti oheisen tutorialin mukaan:",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronikauppinen/todoLista-main.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronikauppinen/todoLista-main/issues"
+  },
+  "homepage": "https://github.com/ronikauppinen/todoLista-main#readme"
 }
